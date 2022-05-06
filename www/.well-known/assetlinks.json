@@ -1,0 +1,18 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.cubix.twa",
+        "sha256_cert_fingerprints": ["96:D8:7F:F0:5C:D3:20:D9:D7:89:60:CC:63:80:79:3C:58:0B:43:62:C2:61:98:4E:DC:0A:1A:06:1B:B2:76:80"]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.cubix.twa",
+        "sha256_cert_fingerprints": ["8D:7D:51:9F:21:2F:3D:92:C9:DC:50:BC:3E:BC:BA:F3:A6:71:C1:42:F8:D1:42:FB:7C:A2:CC:18:24:4D:D6:9D"]
+      }
+    }
+  ]

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://2048-3d.netlify.com/sitemap.xml
