@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="app.netlify.cubix.twa" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>A-2048-cubix</name>
+    <name>A 2048 cubix</name>
     <description>A 3D puzzle game to get the number 2048</description>
     <author email="mr.kumar.abhishek@email.com" href="https://mr-kumar-abhishek.github.io">
         Abhishek Kumar
@@ -8,4 +8,7 @@
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
+    <icon src="res/logo.png" />
+    <splash src="res/splash.png" />
+    <preference name="SplashScreenDelay" value="10000" />
 </widget>

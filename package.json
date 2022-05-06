@@ -1,6 +1,6 @@
 {
   "name": "app.netlify.cubix.twa",
-  "displayName": "2048-cubix",
+  "displayName": "2048 cubix",
   "version": "1.0.1",
   "description": "A simple 3D puzzle game in which you have to move the boxes to make 2048.",
   "main": "index.js",
