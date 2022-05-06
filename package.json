@@ -1,8 +1,8 @@
 {
   "name": "app.netlify.cubix.twa",
   "displayName": "2048-cubix",
-  "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "version": "1.0.1",
+  "description": "A simple 3D puzzle game in which you have to move the boxes to make 2048.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,6 @@
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "Apache Cordova Team",
-  "license": "Apache-2.0"
+  "author": "Abhishek Kumar",
+  "license": "MIT"
 }
